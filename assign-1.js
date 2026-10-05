@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  // Footer year
+  
   document.getElementById('year').textContent = new Date().getFullYear();
 
   // Mobile menu toggle
